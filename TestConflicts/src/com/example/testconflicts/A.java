@@ -9,5 +9,9 @@ public class A {
 		System.out.println("456");
 		System.out.println("7");
 		System.out.println("8-1");
+		
+		
+		
+		System.out.println("10");
 	}
 }
