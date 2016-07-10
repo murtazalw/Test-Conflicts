@@ -7,9 +7,10 @@ public class A {
 		System.out.println("3");
 		System.out.println("4");
 		System.out.println("456");
+
 		System.out.println("7-1");
 		System.out.println("7-2");
 		System.out.println("8");
-		System.out.println("9");
-	}
+		System.out.println("8-1");
+		System.out.println("9");	}
 }
